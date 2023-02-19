@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Statistics for "{{data['word']}}"</title>
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <style type="text/css">
+        body {
+            font-family: 'Arial', 'Helvetica', sans-serif;
+        }
+        
+        ul.word-grid li {
+            float: left;
+            padding: 5pt;
+            list-style: none;
+        }
+        
+        ul.word-grid {
+            clear: both;
+            float: left;
+            margin-top: 0;
+            padding-top: 0;
+        }
+        
+        h2 {
+            clear: both;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="w3-container">
+        <div class="masterCategory">
+            <header class="w3-blue">
+                <h1 class="w3-center">Master Category - {{data['word']}}</h1>
+                <h3 class="w3-center"><a href="https://www.urbandictionary.com/define.php?term={{data['word']}}" target="_blank" rel="noopener">Original Definition</a> at Urban Dictionary</h3>
+            </header>
+
+            <table>
+                <thead>
+                    <th>Category</th>
+                    <th>Monthly Budget</th>
+                    <th>Amount Spent</th>
+                    <th>Proportional Spend this month</th>
+                    <th>Projected spend at current rates</th>
+                </thead>
+                <tbody>
+
+                </tbody>
+            </table>
+        </div>
+    </div>
+</body>
