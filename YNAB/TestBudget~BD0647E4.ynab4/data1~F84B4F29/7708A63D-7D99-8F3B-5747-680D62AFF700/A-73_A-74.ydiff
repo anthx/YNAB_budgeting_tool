@@ -1,0 +1,25 @@
+{
+  "budgetDataGUID": null,
+  "dataVersion": "4.2",
+  "startVersion": "A-73",
+  "endVersion": "A-74",
+  "items": [
+    {
+      "note": null,
+      "entityId": "MCB/2023-05/A9",
+      "isTombstone": false,
+      "entityType": "monthlyCategoryBudget",
+      "entityVersion": "A-74",
+      "madeWithKnowledge": null,
+      "isResolvedConflict": false,
+      "parentMonthlyBudgetId": "MB/2023-05",
+      "budgeted": 15,
+      "overspendingHandling": null,
+      "categoryId": "A9"
+    }
+  ],
+  "publishTime": "Tue May 30 20:54:34 GMT+1000 2023",
+  "deviceGUID": "7708A63D-7D99-8F3B-5747-680D62AFF700",
+  "shortDeviceId": "A",
+  "formatVersion": null
+}

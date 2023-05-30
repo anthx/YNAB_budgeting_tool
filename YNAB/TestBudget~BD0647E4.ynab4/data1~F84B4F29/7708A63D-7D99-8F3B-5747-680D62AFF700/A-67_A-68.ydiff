@@ -1,0 +1,40 @@
+{
+  "budgetDataGUID": null,
+  "dataVersion": "4.2",
+  "startVersion": "A-67",
+  "endVersion": "A-68",
+  "items": [
+    {
+      "isTombstone": false,
+      "entityVersion": "A-68",
+      "madeWithKnowledge": null,
+      "amount": 500,
+      "isResolvedConflict": false,
+      "memo": null,
+      "cleared": "Cleared",
+      "date": "2023-05-30",
+      "dateEnteredFromSchedule": null,
+      "checkNumber": null,
+      "flag": null,
+      "targetAccountId": null,
+      "transferTransactionId": null,
+      "importedPayee": null,
+      "categoryId": "Category/__ImmediateIncome__",
+      "source": null,
+      "entityId": "95A4D5F6-41EA-1B8A-B76F-6C49F761C072",
+      "entityType": "transaction",
+      "YNABID": null,
+      "subTransactions": null,
+      "FITID": null,
+      "matchedTransactions": null,
+      "parentTransactionIdIfMatched": null,
+      "accountId": "5C2A457D-DC28-BCD1-6855-6C49F75670A6",
+      "accepted": true,
+      "payeeId": "545F4E5F-1F84-60D4-1559-6C49F76299D4"
+    }
+  ],
+  "publishTime": "Tue May 30 20:53:18 GMT+1000 2023",
+  "deviceGUID": "7708A63D-7D99-8F3B-5747-680D62AFF700",
+  "shortDeviceId": "A",
+  "formatVersion": null
+}
